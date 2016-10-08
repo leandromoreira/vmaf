@@ -76,7 +76,17 @@
 - Make ptools work under Mac OS.
 - Update SklearnRandomForestTrainTestModel test with sklearn 0.18.
 
-## (09/29/2016) [1.1.3]
+## (10/6/2016) [1.1.3]
 
 **New features:**
 - Generalize dataset format to allow per-content YUV format.
+
+## (10/7/2016) [1.1.4]
+
+**Fixed bugs:**
+- Issue #29: Make ptools build under Fedora.
+
+## (10/8/2016) [1.1.5]
+
+**New features:**
+- Add support for docker usage (#30).
